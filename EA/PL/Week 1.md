@@ -94,3 +94,7 @@ The right choice for a data structure depends on how many insertions, deletions 
 There may be several theoretically good choices for the problem at hand, so testing may be needed to filter out the worse options 
 There are many more data structures we did not discuss here but these cover many cases 
 https://en.wikipedia.org/wiki/List_of_data_structures
+
+## Evaluation
+16 points for final exam
+4 for projects and deliverables
