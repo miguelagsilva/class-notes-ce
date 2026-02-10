@@ -47,3 +47,27 @@ LLVM IR (intermediate representation)
 
 Pratical exercises comes from here
 https://github.com/rbbarbosa/Petit/
+
+## Lexical Analysis in depth
+Divides the code from left to right into its lexical symbols (tokens)
+
+```
+if (a==b)
+  c=1;
+else
+ c=0;
+```
+Turns into
+`\tif (a==b)\n\t\tc=1;\n\telse\n\t\tc=0;`
+
+each token (lexical symbol) has a category: keywords, identifiers, operators, numbers, white spaces, specific classes for () = ;
+naturals are not empty strings made of only numbers eg: 0, 52, 007, 00
+
+![[Pasted image 20260209094212.png]]
+
+
+![[Pasted image 20260209094150.png]]
+
+regexp -> non deterministic automata ->  deterministic automata -> table double entry
+
+![[Pasted image 20260209094538.png]]

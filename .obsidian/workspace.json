@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP/TP/Week 1.md",
+                "file": "FSI/TP/Week 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -46,10 +46,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "COMP/slides/t01-intro.pdf"
+                "file": "FSI/slides/T0-Apresentação.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "t01-intro"
+              "title": "T0-Apresentação"
             }
           }
         ]
@@ -225,31 +225,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a90d05fd04142577",
+  "active": "3725fb11139342e2",
   "lastOpenFiles": [
+    "Pasted image 20260210032428.png",
+    "FSI/slides/T0-Apresentação.pdf",
+    "FSI/TP/Week 1.md",
+    "FSI/slides/Unconfirmed 181158.crdownload",
+    "FSI/slides",
+    "COMP/slides/t02-lexical.pdf",
+    "FSI/TP",
+    "FSI",
+    "COMP/PL/Week 1.md",
+    "Pasted image 20260209122628.png",
+    "Images/Pasted image 20260209094538.png",
+    "COMP/PL",
+    "COMP/TP/Week 1.md",
+    "Images/Pasted image 20260209094212.png",
+    "Images/Pasted image 20260209094150.png",
     "EA/PL",
     "COMP/TP",
     "Images/Pasted image 20260209091625.png",
     "Images/Pasted image 20260209091535.png",
-    "COMP/TP/Week 1.md",
     "Images/Pasted image 20260209091612.png",
     "Images/Pasted image 20260209091603.png",
     "Images/Pasted image 20260209091556.png",
     "Images/Pasted image 20260209091546.png",
-    "COMP/slides/t02-lexical.pdf",
     "EA/PL/Week 1.md",
-    "Images/Pasted image 20260209084346.png",
-    "Images/Pasted image 20260209084117.png",
-    "Images/Pasted image 20260209083217.png",
     "COMP/slides/t01-intro.pdf",
-    "objects/pack",
-    "objects/info",
-    "objects",
-    "HEAD",
-    "refs/tags",
-    "refs/heads",
-    "refs",
-    "2026-02-09.md",
-    "Images/Pasted image 20260209082111.png"
+    "2026-02-09.md"
   ]
 }
