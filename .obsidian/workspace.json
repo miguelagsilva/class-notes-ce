@@ -20,36 +20,86 @@
             }
           },
           {
-            "id": "3725fb11139342e2",
+            "id": "002722669b6f62b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FSI/TP/Week 1.md",
+                "file": "CGI/TP/Week 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 1"
+              "title": "Week 2"
+            }
+          },
+          {
+            "id": "8d008adefc213660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FSI/TP/Week 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 3"
+            }
+          },
+          {
+            "id": "6040279a214e339a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20260223154233.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260223154233"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "af9a954440734ef0",
         "type": "tabs",
         "children": [
           {
-            "id": "f348cb222f7cf6c3",
+            "id": "00e49e9deec4deeb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20260209081711.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260209081711"
+            }
+          },
+          {
+            "id": "89a81433ac2bb76e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "FSI/slides/T0-Apresentação.pdf"
+                "file": "FIA/slides/T0 - Presentation 2026.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "T0-Apresentação"
+              "title": "T0 - Presentation 2026"
+            }
+          },
+          {
+            "id": "99feccd2407ef008",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FIA/slides/T1 - Reactivos .pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "T1 - Reactivos"
             }
           }
         ]
@@ -109,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8f91b9374c602399",
@@ -225,33 +275,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3725fb11139342e2",
+  "active": "00e49e9deec4deeb",
   "lastOpenFiles": [
-    "Pasted image 20260210032428.png",
-    "FSI/slides/T0-Apresentação.pdf",
-    "FSI/TP/Week 1.md",
-    "FSI/slides/Unconfirmed 181158.crdownload",
-    "FSI/slides",
-    "COMP/slides/t02-lexical.pdf",
-    "FSI/TP",
-    "FSI",
+    "Images/Pasted image 20260224092038.png",
+    "FSI/slides/T2-Firewalls and intrusion detection.pdf",
+    "FSI/TP/Week 3.md",
+    "Images/Pasted image 20260224103605.png",
+    "Images/Pasted image 20260224103036.png",
+    "Images/Pasted image 20260224102540.png",
+    "Images/Pasted image 20260224102530.png",
+    "Images/Pasted image 20260224102001.png",
+    "Images/Pasted image 20260224101436.png",
+    "Images/Pasted image 20260224100423.png",
+    "Images/Pasted image 20260224095145.png",
+    "Images/Pasted image 20260224094524.png",
+    "Images/Pasted image 20260224093554.png",
+    "FSI/TP/Week 2.md",
+    "FIA/PL/Week 3.md",
+    "EA/TP/Week 2.md",
+    "FIA/slides/Ficha de AgentesReactivos_2026.pdf",
+    "FIA/slides/T1 - Reactivos .pdf",
+    "FIA/slides/T0 - Presentation 2026.pdf",
+    "FIA/slides/Unconfirmed 165742.crdownload",
+    "FIA/slides/Unconfirmed 930550.crdownload",
+    "FIA/slides/Unconfirmed 748539.crdownload",
+    "FIA/slides",
+    "COMP/PL/Week 3.md",
+    "FIA/PL/Week 2.md",
+    "FIA/PL/Week 1.md",
+    "COMP/TP/Week 3.md",
+    "FIA/PL",
+    "COMP/slides/t03-syntactic.pdf",
+    "Untitled.md",
+    "EA/PL/Week 3.md",
+    "EA/PL/Week 2.md",
+    "EA/TP/Week 1 (moved from first week to second).md",
+    "FIA/T/Week 2.md",
+    "CGI/TP/Week 2.md",
+    "CGI/TP/Week 1.md",
+    "COMP/PL/Week 2.md",
+    "CGI/slides/1/Description.md",
+    "COMP/TP/Week 2.md",
     "COMP/PL/Week 1.md",
-    "Pasted image 20260209122628.png",
-    "Images/Pasted image 20260209094538.png",
-    "COMP/PL",
+    "FSI/PL/Week1.md",
+    "FSI/TP/Week 1.md",
     "COMP/TP/Week 1.md",
-    "Images/Pasted image 20260209094212.png",
-    "Images/Pasted image 20260209094150.png",
-    "EA/PL",
-    "COMP/TP",
-    "Images/Pasted image 20260209091625.png",
-    "Images/Pasted image 20260209091535.png",
-    "Images/Pasted image 20260209091612.png",
-    "Images/Pasted image 20260209091603.png",
-    "Images/Pasted image 20260209091556.png",
-    "Images/Pasted image 20260209091546.png",
     "EA/PL/Week 1.md",
-    "COMP/slides/t01-intro.pdf",
     "2026-02-09.md"
   ]
 }
