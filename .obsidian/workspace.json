@@ -6,6 +6,7 @@
       {
         "id": "13689f45e127e9c6",
         "type": "tabs",
+        "dimension": 49.72222222222222,
         "children": [
           {
             "id": "7083072eabe6d97b",
@@ -48,17 +49,59 @@
             }
           },
           {
-            "id": "00e49e9deec4deeb",
+            "id": "c43acd3c8592912b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CGI/TP/Week 3.md",
+                "file": "FSI/PL/Week 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Week 3"
+            }
+          },
+          {
+            "id": "e87b1509b6bd7a2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FSI/PL/Week 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 4"
+            }
+          },
+          {
+            "id": "3d5fc993ae0d8013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CGI/TP/Week 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 4"
+            }
+          },
+          {
+            "id": "8ff5c53471cd8250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP/TP/Week 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 5"
             }
           },
           {
@@ -74,22 +117,49 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "af9a954440734ef0",
         "type": "tabs",
+        "dimension": 50.27777777777778,
         "children": [
           {
             "id": "89a81433ac2bb76e",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FSI/PL/Week 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 4"
+            }
+          },
+          {
+            "id": "00e49e9deec4deeb",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "COMP/slides/enunciado_projeto_2026.pdf"
+                "file": "FSI/slides/PL-Presentation-3.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "enunciado_projeto_2026"
+              "title": "PL-Presentation-3"
+            }
+          },
+          {
+            "id": "f98bf4089794311d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP/slides/t04-syntactic-ii.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "t04-syntactic-ii"
             }
           },
           {
@@ -98,13 +168,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "FIA/slides/T1 - Reactivos .pdf"
+                "file": "COMP/slides/t05-syntactic-iii.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "T1 - Reactivos"
+              "title": "t05-syntactic-iii"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -161,7 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 235.5
   },
   "right": {
     "id": "8f91b9374c602399",
@@ -277,53 +348,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00e49e9deec4deeb",
+  "active": "8ff5c53471cd8250",
   "lastOpenFiles": [
-    "CGI/TP/Week 2.md",
+    "Pasted image 20260309151444.png",
+    "COMP/slides/t05-syntactic-iii.pdf",
+    "COMP/TP/Week 5.md",
+    "Pasted image 20260309150102.png",
+    "Pasted image 20260309145931.png",
+    "Pasted image 20260309145319.png",
+    "COMP/slides/t04-syntactic-ii.pdf",
+    "Pasted image 20260309145144.png",
+    "COMP/slides/enunciado_projeto_2026_v2.pdf",
+    "COMP/slides/Unconfirmed 574999.crdownload",
+    "Pasted image 20260309144159.png",
+    "Pasted image 20260309144155.png",
+    "Pasted image 20260309143414.png",
+    "Pasted image 20260309143036.png",
+    "Pasted image 20260309142604.png",
+    "Pasted image 20260309142230.png",
+    "COMP/PL/Week 3.md",
+    "COMP/slides/Unconfirmed 95629.crdownload",
+    "COMP/slides/Unconfirmed 347648.crdownload",
+    "COMP/TP/Week 4.md",
+    "EA/PL/Week 5.md",
+    "EA/PL/Week 4.md",
+    "FSI/PL/Week 4.md",
+    "CGI/TP/Week 4.md",
+    "FIA/slides/ENU_IIA_TP1_25_26.pdf",
+    "FIA/slides/PPT_IIA_TP1_25_26.pdf",
     "CGI/TP/Week 3.md",
+    "CGI/PL/Week 4.md",
+    "COMP/slides/enunciado_projeto_2026.pdf",
+    "FSI/slides/Practical Assignment 1.pdf",
+    "FSI/PL/Week 3.md",
+    "CGI/slides/1/Description.md",
+    "CGI/TP/Week 2.md",
     "CGI/PL/Week 2.md",
     "CGI/PL/Week 1.md",
-    "FSI/PL/Week 3.md",
-    "CGI/PL",
-    "COMP/slides/enunciado_projeto_2026.pdf",
-    "FSI/slides/PL-Practical Exercises_2.pdf",
     "FSI/PL/Week 1.md",
     "FSI/PL/Week 2.md",
-    "FSI/slides/PL-Apresentação-1.pdf",
-    "FSI/slides/PL-Exercícios-0.pdf",
-    "FSI/slides/Unconfirmed 877896.crdownload",
-    "FSI/slides/PL-Exercícios-1.pdf",
-    "FSI/slides/PL-Practical Exercises_2",
-    "FSI/slides/Unconfirmed 897078.crdownload",
-    "FSI/slides/T1-Conceitos_Seguranca.pdf",
-    "Images/Pasted image 20260209081711.png",
-    "Images/Pasted image 20260224092038.png",
     "FSI/TP/Week 3.md",
-    "Images/Pasted image 20260224103605.png",
-    "Images/Pasted image 20260224103036.png",
-    "Images/Pasted image 20260224102540.png",
-    "Images/Pasted image 20260224102530.png",
-    "Images/Pasted image 20260224102001.png",
-    "Images/Pasted image 20260224101436.png",
-    "Images/Pasted image 20260224100423.png",
-    "Images/Pasted image 20260224095145.png",
     "FSI/TP/Week 2.md",
     "FIA/PL/Week 3.md",
     "EA/TP/Week 2.md",
-    "COMP/PL/Week 3.md",
     "FIA/PL/Week 2.md",
     "FIA/PL/Week 1.md",
     "COMP/TP/Week 3.md",
     "Untitled.md",
-    "EA/PL/Week 3.md",
-    "EA/PL/Week 2.md",
-    "EA/TP/Week 1 (moved from first week to second).md",
-    "FIA/T/Week 2.md",
-    "CGI/TP/Week 1.md",
-    "COMP/PL/Week 2.md",
-    "CGI/slides/1/Description.md",
-    "COMP/TP/Week 2.md",
-    "COMP/PL/Week 1.md",
-    "FSI/TP/Week 1.md"
+    "EA/PL/Week 3.md"
   ]
 }
